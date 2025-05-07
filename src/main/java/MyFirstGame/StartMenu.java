@@ -118,7 +118,7 @@ public class StartMenu extends JPanel {
         JLabel background = new JLabel(bgIcon);
         background.setLayout(new BoxLayout(background, BoxLayout.Y_AXIS));
 
-        JLabel creditsLabel = new JLabel("Created by Amit Swisa :)");
+        JLabel creditsLabel = new JLabel("Created by Amit Swisa and Yair Siboni :)");
         creditsLabel.setFont(new Font("Arial", Font.BOLD, 24));
         creditsLabel.setForeground(Color.pink);
         creditsLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
